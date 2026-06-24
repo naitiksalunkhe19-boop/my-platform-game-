@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Platform Game</title>
+<style>
+body { margin:0; overflow:hidden; }
+canvas { background:#5ec8ff; }
+</style>
+</head>
+
+<body>
+
+<canvas id="game" width="800" height="400"></canvas>
+
+<script src="game.js"></script>
+
+</body>
+</html>
